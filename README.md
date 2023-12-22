@@ -9,3 +9,8 @@
 `pip install requests`
 
 `python bkash.py`
+
+
+# Disclaimer 
+
+Use it on own risk if you harm anyone we will not responsible for this mind it 😊
