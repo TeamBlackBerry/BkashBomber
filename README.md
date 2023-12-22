@@ -6,6 +6,6 @@
 
 `cd BkashBomber`
 
-`pip inatall -r requirements.txt`
+`pip install requests`
 
 `python bkash.py`
